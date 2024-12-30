@@ -6,4 +6,3 @@ A simple task tracker cli made in java, for gaining understanding of the Java pr
 How to run it:
 
 ---
-Project from: https://roadmap.sh/projects/task-tracker
