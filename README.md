@@ -20,14 +20,23 @@ A simple task tracker cli made in java, for gaining practical knowledge about Ob
 #### Help Menu:
 
 Add item to List -> add Bring something
+
 Delete item from List -> delete <task_id>
+
 Update items in List -> update <task_id> Bring nothing.
+
 Change task status -> mark <task_id> <options> [options: todo, in-progress, done]
 
+
 List all items -> list
+
 List items with todo status -> list todo
+
 List items with in-progress status -> list in-progress
+
 List completed tasks -> list done
 
 Exit Program -> exit
+
 To bring up this menu -> help
+
